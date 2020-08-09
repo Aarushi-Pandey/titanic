@@ -1,9 +1,10 @@
 # titanic
 Currently open challenge in Kaggle: https://www.kaggle.com/c/titanic (link to the challenge)
 
-Challenge is to determine if a person survived in the titanic or not.
+The challenge is to determine if a person survived in the titanic or not (from the given data in Kaggle).
 
-At my best I was able to predict prices for the test data with 78.229% success rate. 
+The language I used for this challenge is R.
 
-The language I used for this challenge is R. 
-I used feature engineering skills as well as models like svm, glm,dTree, and randomForest for these predictions.
+My best prediction was able to predict survival rates for the test data with 78.229% success rate.
+
+I used feature engineering skills as well as popular models like svm (support-vector machines), glm (general linear model), decision tree(s), and random forests for these predictions.
